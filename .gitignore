@@ -45,3 +45,4 @@ app.*.map.json
 
 release/Payload
 release/*.ipa
+lib/decryption
